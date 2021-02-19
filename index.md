@@ -48,11 +48,11 @@
   <body class="text-center">
     
 <main class="form-signin">
-<form action="https://formspree.io/f/mdopvykb" method="POST">
-  <input type="text" name="name">
-  <input type="text" name="_replyto">
-  <input type="submit" value="Send">
-</form>
+  <form action="https://formspree.io/f/mdopvykb" method="POST">
+    <input type="text" name="name">
+    <input type="text" name="_replyto">
+    <input type="submit" value="Send">
+  </form>
 </main>
 
 
